@@ -30,4 +30,4 @@ Detailed documentation will be available soon. Stay tuned for more information o
 
 ## License
 
-Jōkær will be licensed under the [MIT License](LICENSE). You can freely use, modify, and distribute this project as long as you comply with the terms of the license.
+Jōkær will be licensed under the [GNU GENERAL PUBLIC LICENSE](LICENSE). You can freely use, modify, and distribute this project as long as you comply with the terms of the license.
