@@ -1,6 +1,6 @@
 # Jōkær
 
-**Jōkær** is an open source messaging platform currently in the design phase, created to be a powerful and flexible alternative to Slack. Our mission is to provide a collaborative communication solution that meets modern needs while remaining fully free and customizable.
+**Jōkær**  (pronounced /ˈdʒoʊ.kər/, like joker) is an open source messaging platform currently in the design phase, created to be a powerful and flexible alternative to Slack. Our mission is to provide a collaborative communication solution that meets modern needs while remaining fully free and customizable.
 
 ## Features
 
