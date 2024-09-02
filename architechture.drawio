@@ -4,8 +4,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BR60-wxyaCwQ-eBxS74n-1" value="Api resr" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="460" width="60" height="30" as="geometry" />
+        <mxCell id="BR60-wxyaCwQ-eBxS74n-7" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;arcSize=50;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="BR60-wxyaCwQ-eBxS74n-3" target="BR60-wxyaCwQ-eBxS74n-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BR60-wxyaCwQ-eBxS74n-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/128/12936/12936232.png;" vertex="1" parent="1">
+          <mxGeometry x="760" y="562" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="BR60-wxyaCwQ-eBxS74n-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/128/4227/4227984.png;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="360" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="BR60-wxyaCwQ-eBxS74n-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;jumpSize=6;arcSize=50;" edge="1" parent="1" source="BR60-wxyaCwQ-eBxS74n-5" target="BR60-wxyaCwQ-eBxS74n-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BR60-wxyaCwQ-eBxS74n-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/128/2010/2010990.png;" vertex="1" parent="1">
+          <mxGeometry x="400" y="360" width="128" height="128" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
